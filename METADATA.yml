@@ -1,8 +1,8 @@
 
 schema: >-
   https://github.com/tboenig/gt-metadata/tree/master/schema/2022-03-15/schema.json
-title: gt_structure_2
-url: https://github.com/tboenig/gt_structure_2
+title: gt_structure_2_1
+url: https://github.com/tboenig/gt_structure_2_1
 authors:
   - name: Boenig
     surname: Matthias

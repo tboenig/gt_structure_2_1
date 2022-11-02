@@ -37,6 +37,11 @@
                This normalized and semantic description of the OCR-GT data can be found in the METS metadata file. 
                The labeling metadata is created for each available page. The following labeling metadata is available for the complete collection.</p>
    <p>Here you will find a description and explanation of the labeling metadata.</p>
+   <details>
+      <summary>granularity/physical/document-related/region</summary>
+      <p>
+         <strong>Description: </strong>Region, zone, block</p>
+   </details>
 </div>
 <div class="metadata">
    <h2>Download</h2>
@@ -45,7 +50,7 @@
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_2_1/releases/download/v4/bagitDump-v4.zip">Current version download: bagitDump-v4.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_2_1/releases/download/v6/bagitDump-v6.zip">Current version download: bagitDump-v6.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_2_1/releases">Version archive</a>
@@ -205,22 +210,22 @@
       </thead>
       <tbody>
          <tr>
+            <td>7071</td>
+            <td>0</td>
+            <td>0</td>
+            <td>153</td>
+            <td>25</td>
+            <td>0</td>
+            <td>282</td>
+            <td>107</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
+            <td>4</td>
             <td>0</td>
             <td>0</td>
             <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
-            <td>0</td>
+            <td>1614</td>
          </tr>
       </tbody>
    </table>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:12:01</Created>
+	<LastChange>2019-02-26T15:02:49</LastChange></Metadata>
+	<Page imageFilename="frapan_bittersuess_1891_0061.jpg" imageWidth="1341" imageHeight="2085" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r13" index="4"/>
+	<RegionRefIndexed regionRef="r17" index="5"/>
+	<RegionRefIndexed regionRef="r19" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="469,212 723,212 723,288 469,288"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1151,299 1151,483 84,483 84,299"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1151,485 1151,650 884,650 884,651 350,651 350,652 84,652 84,485"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1151,652 1151,819 84,819 84,654 351,654 351,653 885,653 885,652"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="1151,821 1151,1442 973,1442 973,1443 617,1443 617,1444 261,1444 261,1445 84,1445 84,821"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r17" type="paragraph">
+	<Coords points="1151,1444 1151,1655 1097,1655 1097,1656 990,1656 990,1657 884,1657 884,1658 777,1658 777,1659 670,1659 670,1660 564,1660 564,1661 457,1661 457,1662 350,1662 350,1663 244,1663 244,1664 137,1664 137,1665 84,1665 84,1447 262,1447 262,1446 618,1446 618,1445 974,1445 974,1444"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r19" type="paragraph">
+	<Coords points="1151,1657 1151,1868 84,1868 84,1667 138,1667 138,1666 245,1666 245,1665 351,1665 351,1664 458,1664 458,1663 565,1663 565,1662 671,1662 671,1661 778,1661 778,1660 885,1660 885,1659 991,1659 991,1658 1098,1658 1098,1657"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

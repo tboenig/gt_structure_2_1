@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:43</Created>
+	<LastChange>2019-02-26T16:14:03</LastChange></Metadata>
+	<Page imageFilename="glueck_pandecten01verbesserungen_1798_0050.jpg" imageWidth="2140" imageHeight="2976" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote-continued">
+	<Coords points="960,1830 2134,1830 2134,1989 960,1989"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1037,400 1037,344 929,344 929,400"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="footnote">
+	<Coords points="2136,1992 2136,2191 2103,2191 2103,2190 2035,2190 2035,2189 1968,2189 1968,2188 1900,2188 1900,2187 1833,2187 1833,2186 1766,2186 1766,2185 1698,2185 1698,2184 1631,2184 1631,2183 1563,2183 1563,2182 1496,2182 1496,2181 1428,2181 1428,2180 1361,2180 1361,2179 1293,2179 1293,2178 1226,2178 1226,2177 1159,2177 1159,2176 1091,2176 1091,2175 1024,2175 1024,2174 956,2174 956,2173 922,2173 922,1992"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords points="955,2175 955,2176 1023,2176 1023,2177 1090,2177 1090,2178 1158,2178 1158,2179 1225,2179 1225,2180 1292,2180 1292,2181 1360,2181 1360,2182 1427,2182 1427,2183 1495,2183 1495,2184 1562,2184 1562,2185 1630,2185 1630,2186 1697,2186 1697,2187 1765,2187 1765,2188 1832,2188 1832,2189 1899,2189 1899,2190 1967,2190 1967,2191 2034,2191 2034,2192 2102,2192 2102,2193 2136,2193 2136,2424 922,2424 922,2175"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="2118,414 2118,584 1916,584 1916,585 1514,585 1514,586 1112,586 1112,587 911,587 911,414"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="2118,586 2118,873 911,873 911,589 1113,589 1113,588 1515,588 1515,587 1917,587 1917,586"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="2118,875 2118,1811 911,1811 911,875"/>
+	<TextRegion id="r14" type="signature-mark">
+	<Coords points="2129,1814 2129,1744 1962,1744 1962,1814"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

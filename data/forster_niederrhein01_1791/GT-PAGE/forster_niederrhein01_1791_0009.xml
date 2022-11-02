@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:11:47</Created>
+	<LastChange>2019-02-26T14:27:29</LastChange></Metadata>
+	<Page imageFilename="forster_niederrhein01_1791_0009.jpg" imageWidth="1419" imageHeight="1962" type="content">
+	<PrintSpace>
+	<Coords points="9,52 9,1816 1119,1816 1119,52"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="paragraph">
+	<Coords points="120,135 1081,135 1081,1009 120,1009"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="region_2">
+	<Coords points="512,1047 786,1047 786,1109 512,1109"/></SeparatorRegion>
+	<TextRegion id="region_3" type="paragraph">
+	<Coords points="385,1250 884,1250 884,1309 385,1309"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="region_4">
+	<Coords points="210,1322 1034,1322 1034,1378 210,1378"/></SeparatorRegion>
+	<TextRegion id="region_5" type="paragraph">
+	<Coords points="210,1387 1024,1387 1024,1564 210,1564"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

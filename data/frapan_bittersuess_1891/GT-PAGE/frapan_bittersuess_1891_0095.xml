@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:12:01</Created>
+	<LastChange>2019-02-26T15:16:49</LastChange></Metadata>
+	<Page imageFilename="frapan_bittersuess_1891_0095.jpg" imageWidth="1341" imageHeight="2088" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r9" index="3"/>
+	<RegionRefIndexed regionRef="r11" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="479,213 743,213 743,284 479,284"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1159,288 1159,416 1069,416 1069,417 889,417 889,418 710,418 710,419 530,419 530,420 351,420 351,421 171,421 171,422 82,422 82,288"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1159,418 1159,701 1051,701 1051,702 835,702 835,703 620,703 620,704 405,704 405,705 189,705 189,706 82,706 82,424 172,424 172,423 352,423 352,422 531,422 531,421 711,421 711,420 890,420 890,419 1070,419 1070,418"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1159,703 1159,1081 1082,1081 1082,1082 928,1082 928,1083 774,1083 774,1084 620,1084 620,1085 466,1085 466,1086 312,1086 312,1087 158,1087 158,1088 82,1088 82,708 190,708 190,707 406,707 406,706 621,706 621,705 836,705 836,704 1052,704 1052,703"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r11" type="paragraph">
+	<Coords points="1159,1083 1159,1877 82,1877 82,1090 159,1090 159,1089 313,1089 313,1088 467,1088 467,1087 621,1087 621,1086 775,1086 775,1085 929,1085 929,1084 1083,1084 1083,1083"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:11:35</Created>
+	<LastChange>2019-02-26T13:35:56</LastChange></Metadata>
+	<Page imageFilename="fontane_brandenburg02_1863_0182.jpg" imageWidth="2017" imageHeight="2817" type="content">
+	<PrintSpace>
+	<Coords points="493,248 493,2634 2016,2634 2016,248"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_5" index="2"/>
+	<RegionRefIndexed regionRef="region_6" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#column" type="paragraph">
+	<Coords points="613,799 1271,799 1271,1284 613,1284"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#column" type="paragraph">
+	<Coords points="1286,806 1901,806 1901,1274 1286,1274"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#column" type="paragraph">
+	<Coords points="1283,1479 1908,1479 1908,2197 1283,2197"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" custom="#column" type="paragraph">
+	<Coords points="613,1486 1268,1486 1268,2298 613,2298"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1848,762 1848,531 696,531 696,762"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1858,1468 1858,1293 703,1293 703,1468"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1668,2379 1668,2310 782,2310 782,2379"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords points="1351,465 1351,400 1196,400 1196,465"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

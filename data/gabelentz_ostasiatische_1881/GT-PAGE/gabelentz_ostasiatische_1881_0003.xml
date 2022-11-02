@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:07</Created>
+	<LastChange>2019-02-26T15:43:14</LastChange></Metadata>
+	<Page imageFilename="gabelentz_ostasiatische_1881_0003.jpg" imageWidth="804" imageHeight="3082" type="content">
+	<NoiseRegion id="r0">
+	<Coords points="650,715 650,534 180,534 180,715"/></NoiseRegion>
+	<NoiseRegion id="r1">
+	<Coords points="534,2823 534,2619 269,2619 269,2823"/></NoiseRegion></Page></PcGts>

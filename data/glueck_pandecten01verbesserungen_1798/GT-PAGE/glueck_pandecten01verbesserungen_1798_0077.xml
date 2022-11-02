@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:43</Created>
+	<LastChange>2019-02-26T16:14:34</LastChange></Metadata>
+	<Page imageFilename="glueck_pandecten01verbesserungen_1798_0077.jpg" imageWidth="2142" imageHeight="2979" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r3" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="signature-mark">
+	<Coords points="625,1625 766,1625 766,1689 625,1689"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1188,477 1188,396 1107,396 1107,477"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1200,1681 1200,481 37,481 37,1681"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="footnote">
+	<Coords points="1224,1702 1224,1776 45,1776 45,1702"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="footnote">
+	<Coords points="1224,1778 1224,2448 45,2448 45,1778"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

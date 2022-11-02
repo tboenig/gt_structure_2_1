@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:21</Created>
+	<LastChange>2019-02-26T15:50:12</LastChange></Metadata>
+	<Page imageFilename="gercke_torpedowaffe_1898_0143.jpg" imageWidth="7443" imageHeight="3723" type="content">
+	<PrintSpace>
+	<Coords points="1711,147 1711,3600 7294,3600 7294,147"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<GraphicRegion id="region_1">
+	<Coords points="1813,220 6950,220 6950,3473 1813,3473"/></GraphicRegion>
+	<TextRegion id="region_2" type="caption">
+	<Coords points="6410,306 6579,306 6579,375 6410,375"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

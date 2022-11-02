@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:11:55</Created>
+	<LastChange>2019-02-26T14:32:01</LastChange></Metadata>
+	<Page imageFilename="forster_reise02_1780_0419.jpg" imageWidth="2884" imageHeight="3114" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#heading_level1" type="heading">
+	<Coords points="393,1341 1956,1341 1956,1722 393,1722"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="footnote">
+	<Coords points="402,2304 1980,2304 1980,2556 402,2556"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" type="signature-mark">
+	<Coords points="402,2559 1440,2559 1440,2655 402,2655"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1930,476 1930,411 1800,411 1800,476"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1515,461 1515,384 784,384 784,461"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1915,1288 1915,496 380,496 380,1288"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="2042,657 2042,500 1930,500 1930,657"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="2007,2273 2007,1734 353,1734 353,2273"/>
+	<TextRegion id="r5" type="drop-capital">
+	<Coords points="496,1896 496,1750 396,1750 396,1896"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:11:30</Created>
+	<LastChange>2019-02-26T13:29:26</LastChange></Metadata>
+	<Page imageFilename="fischer_werkzeugmaschinen01_1900_0025.jpg" imageWidth="2724" imageHeight="3578" type="content">
+	<PrintSpace>
+	<Coords points="2208,3426 2208,252 0,252 0,3426"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r9" index="4"/>
+	<RegionRefIndexed regionRef="r13" index="5"/>
+	<RegionRefIndexed regionRef="r15" index="6"/>
+	<RegionRefIndexed regionRef="region_4" index="7"/>
+	<RegionRefIndexed regionRef="region_5" index="8"/>
+	<RegionRefIndexed regionRef="region_6" index="9"/>
+	<RegionRefIndexed regionRef="region_7" index="10"/>
+	<RegionRefIndexed regionRef="region_8" index="11"/>
+	<RegionRefIndexed regionRef="region_9" index="12"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="516,446 1471,446 1471,536 516,536"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="1663,460 1772,460 1772,539 1663,539"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_4">
+	<Coords points="1283,1246 1633,1246 1633,1725 1283,1725"/></GraphicRegion>
+	<GraphicRegion id="region_5">
+	<Coords points="430,1260 785,1260 785,1782 430,1782"/></GraphicRegion>
+	<GraphicRegion id="region_6">
+	<Coords points="1083,1760 1708,1760 1708,2155 1083,2155"/></GraphicRegion>
+	<GraphicRegion id="region_7">
+	<Coords points="320,1810 902,1810 902,2143 320,2143"/></GraphicRegion>
+	<TextRegion id="region_8" type="caption">
+	<Coords points="536,2143 731,2143 731,2210 536,2210"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_9" type="caption">
+	<Coords points="1300,2153 1446,2153 1446,2213 1300,2213"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1816,536 1816,759 1614,759 1614,758 1208,758 1208,757 802,757 802,756 396,756 396,755 193,755 193,536"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="395,757 395,758 801,758 801,759 1207,759 1207,760 1613,760 1613,761 1816,761 1816,916 1753,916 1753,917 1628,917 1628,918 1503,918 1503,919 1379,919 1379,920 1254,920 1254,921 1129,921 1129,922 1004,922 1004,923 879,923 879,924 754,924 754,925 629,925 629,926 505,926 505,927 380,927 380,928 255,928 255,929 193,929 193,757"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r9" type="paragraph">
+	<Coords points="1816,918 1816,2229 1614,2229 1614,2228 1208,2228 1208,2227 802,2227 802,2226 396,2226 396,2225 193,2225 193,931 256,931 256,930 381,930 381,929 506,929 506,928 630,928 630,927 755,927 755,926 880,926 880,925 1005,925 1005,924 1130,924 1130,923 1255,923 1255,922 1380,922 1380,921 1504,921 1504,920 1629,920 1629,919 1754,919 1754,918"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r13" type="paragraph">
+	<Coords points="395,2227 395,2228 801,2228 801,2229 1207,2229 1207,2230 1613,2230 1613,2231 1816,2231 1816,2533 1715,2533 1715,2532 1512,2532 1512,2531 1309,2531 1309,2530 1106,2530 1106,2529 904,2529 904,2528 701,2528 701,2527 498,2527 498,2526 295,2526 295,2525 193,2525 193,2227"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r15" type="paragraph">
+	<Coords points="294,2527 294,2528 497,2528 497,2529 700,2529 700,2530 903,2530 903,2531 1105,2531 1105,2532 1308,2532 1308,2533 1511,2533 1511,2534 1714,2534 1714,2535 1816,2535 1816,3102 193,3102 193,2527"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

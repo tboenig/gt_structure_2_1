@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:28</Created>
+	<LastChange>2019-02-26T15:51:04</LastChange></Metadata>
+	<Page imageFilename="gerstner_mechanik01_1831_0453.jpg" imageWidth="3137" imageHeight="3688" type="content">
+	<PrintSpace>
+	<Coords points="113,250 113,3522 2550,3522 2550,250"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r5" index="0"/>
+	<RegionRefIndexed regionRef="r7" index="1"/>
+	<RegionRefIndexed regionRef="region_2" index="2"/></OrderedGroup></ReadingOrder>
+	<TableRegion id="region_2">
+	<Coords points="312,1605 2196,1605 2196,2739 312,2739"/></TableRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="2218,559 2218,486 2086,486 2086,559"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="header">
+	<Coords points="1700,590 1700,436 731,436 731,590"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="2209,845 2209,581 227,581 227,845"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r3">
+	<Coords points="545,922 545,859 213,859 213,922"/></SeparatorRegion>
+	<TextRegion id="r5" type="footnote-continued">
+	<Coords points="2229,906 2229,1285 2184,1285 2184,1284 2094,1284 2094,1283 2004,1283 2004,1282 1914,1282 1914,1281 1824,1281 1824,1280 1734,1280 1734,1279 1644,1279 1644,1278 1554,1278 1554,1277 1463,1277 1463,1276 1373,1276 1373,1275 1283,1275 1283,1274 1193,1274 1193,1273 1103,1273 1103,1272 1013,1272 1013,1271 923,1271 923,1270 832,1270 832,1269 742,1269 742,1268 652,1268 652,1267 562,1267 562,1266 472,1266 472,1265 382,1265 382,1264 292,1264 292,1263 202,1263 202,1262 156,1262 156,906"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="footnote-continued">
+	<Coords points="201,1264 201,1265 291,1265 291,1266 381,1266 381,1267 471,1267 471,1268 561,1268 561,1269 651,1269 651,1270 741,1270 741,1271 831,1271 831,1272 922,1272 922,1273 1012,1273 1012,1274 1102,1274 1102,1275 1192,1275 1192,1276 1282,1276 1282,1277 1372,1277 1372,1278 1462,1278 1462,1279 1553,1279 1553,1280 1643,1280 1643,1281 1733,1281 1733,1282 1823,1282 1823,1283 1913,1283 1913,1284 2003,1284 2003,1285 2093,1285 2093,1286 2183,1286 2183,1287 2229,1287 2229,3228 156,3228 156,1264"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

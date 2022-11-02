@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:43</Created>
+	<LastChange>2019-02-26T16:15:45</LastChange></Metadata>
+	<Page imageFilename="glueck_pandecten01verbesserungen_1798_0079.jpg" imageWidth="2142" imageHeight="2979" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="r8" index="2"/>
+	<RegionRefIndexed regionRef="r12" index="3"/>
+	<RegionRefIndexed regionRef="r16" index="4"/>
+	<RegionRefIndexed regionRef="r18" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="signature-mark">
+	<Coords points="590,1835 714,1835 714,1916 590,1916"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1174,455 1174,388 1107,388 1107,455"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1181,1818 1181,481 33,481 33,1818"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="catch-word">
+	<Coords points="1196,1892 1196,1837 1088,1837 1088,1892"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords points="1212,1939 1212,2043 1158,2043 1158,2044 1051,2044 1051,2045 944,2045 944,2046 838,2046 838,2047 731,2047 731,2048 624,2048 624,2049 517,2049 517,2050 410,2050 410,2051 304,2051 304,2052 197,2052 197,2053 90,2053 90,2054 37,2054 37,1939"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r8" type="footnote">
+	<Coords points="1212,2045 1212,2191 1158,2191 1158,2192 1051,2192 1051,2193 944,2193 944,2194 838,2194 838,2195 731,2195 731,2196 624,2196 624,2197 517,2197 517,2198 410,2198 410,2199 304,2199 304,2200 197,2200 197,2201 90,2201 90,2202 37,2202 37,2056 91,2056 91,2055 198,2055 198,2054 305,2054 305,2053 411,2053 411,2052 518,2052 518,2051 625,2051 625,2050 732,2050 732,2049 839,2049 839,2048 945,2048 945,2047 1052,2047 1052,2046 1159,2046 1159,2045"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r12" type="footnote">
+	<Coords points="1212,2193 1212,2250 1158,2250 1158,2251 1051,2251 1051,2252 944,2252 944,2253 838,2253 838,2254 731,2254 731,2255 624,2255 624,2256 517,2256 517,2257 410,2257 410,2258 304,2258 304,2259 197,2259 197,2260 90,2260 90,2261 37,2261 37,2204 91,2204 91,2203 198,2203 198,2202 305,2202 305,2201 411,2201 411,2200 518,2200 518,2199 625,2199 625,2198 732,2198 732,2197 839,2197 839,2196 945,2196 945,2195 1052,2195 1052,2194 1159,2194 1159,2193"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r16" type="footnote">
+	<Coords points="1212,2252 1212,2376 1129,2376 1129,2375 961,2375 961,2374 793,2374 793,2373 625,2373 625,2372 457,2372 457,2371 289,2371 289,2370 121,2370 121,2369 37,2369 37,2263 91,2263 91,2262 198,2262 198,2261 305,2261 305,2260 411,2260 411,2259 518,2259 518,2258 625,2258 625,2257 732,2257 732,2256 839,2256 839,2255 945,2255 945,2254 1052,2254 1052,2253 1159,2253 1159,2252"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r18" type="footnote">
+	<Coords points="120,2371 120,2372 288,2372 288,2373 456,2373 456,2374 624,2374 624,2375 792,2375 792,2376 960,2376 960,2377 1128,2377 1128,2378 1212,2378 1212,2446 37,2446 37,2371"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

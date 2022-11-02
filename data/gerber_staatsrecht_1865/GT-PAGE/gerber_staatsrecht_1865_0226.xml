@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:20</Created>
+	<LastChange>2019-02-26T15:49:49</LastChange></Metadata>
+	<Page imageFilename="gerber_staatsrecht_1865_0226.jpg" imageWidth="1646" imageHeight="2696" type="content">
+	<PrintSpace>
+	<Coords points="186,73 186,2606 1645,2606 1645,73"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/>
+	<RegionRefIndexed regionRef="region_6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="502,285 599,285 599,351 502,351"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="header">
+	<Coords points="940,297 1124,297 1124,358 940,358"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#back_paragraph" type="other">
+	<Coords points="409,369 1611,369 1611,2111 409,2111"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#column" type="paragraph">
+	<Coords points="997,382 1481,382 1481,776 997,776"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#column" type="paragraph">
+	<Coords points="487,382 984,382 984,774 487,774"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="region_6">
+	<Coords points="895,982 1159,982 1159,1026 895,1026"/></SeparatorRegion></Page></PcGts>

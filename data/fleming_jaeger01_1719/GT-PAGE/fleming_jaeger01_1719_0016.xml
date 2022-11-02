@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-fleming_jaeger01_1719_0016"><Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-04-03T15:38:45</Created>
+	<LastChange>2021-10-24T19:06:08</LastChange></Metadata><Page imageFilename="../jpg/fleming_jaeger01_1719_0016.jpg" imageWidth="3173" imageHeight="4506" type="content" primaryLanguage="German">
+	<Border>
+	<Coords points="553,246 553,3900 2938,3892 2946,253"/></Border>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r2" index="1"/>
+	<RegionRefIndexed regionRef="r3" index="2"/>
+	<RegionRefIndexed regionRef="r4" index="3"/>
+	<RegionRefIndexed regionRef="r1" index="4"/>
+	<RegionRefIndexed regionRef="r0" index="5"/>
+	<RegionRefIndexed regionRef="region_3" index="6"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="1585,335 2074,335 2074,483 1585,483"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#closer" type="other">
+	<Coords points="1533,3533 2838,3533 2838,3924 1533,3924"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="other">
+	<Coords points="945,3132 945,3305 1556,3305 1556,3132"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="other">
+	<Coords points="889,2194 889,2651 2759,2651 2759,2194"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="815,496 1551,477 1587,486 1861,490 2141,482 2840,480 2840,500 2006,508 1331,504 777,518"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="790,516 790,865 2845,865 2845,516"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="770,879 770,2145 2853,2145 2853,879"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

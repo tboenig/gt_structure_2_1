@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:50</Created>
+	<LastChange>2019-02-26T16:30:29</LastChange></Metadata>
+	<Page imageFilename="goerres_volksbuecher_1807_0145.jpg" imageWidth="1539" imageHeight="2309" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_3" index="1"/>
+	<RegionRefIndexed regionRef="region_5" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote-continued">
+	<Coords points="24,972 974,972 974,1938 24,1938"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#poem" type="paragraph">
+	<Coords points="237,1252 793,1252 793,1423 237,1423"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#poem" type="paragraph">
+	<Coords points="237,1480 856,1480 856,1919 237,1919"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="951,528 951,485 834,485 834,528"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="965,891 965,565 71,565 71,891"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="951,948 951,914 85,914 85,948"/></SeparatorRegion></Page></PcGts>

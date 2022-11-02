@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T09:12:01</Created>
+	<LastChange>2019-02-26T14:48:43</LastChange></Metadata>
+	<Page imageFilename="frapan_bittersuess_1891_0023.jpg" imageWidth="1400" imageHeight="2114" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="r1" index="1"/>
+	<RegionRefIndexed regionRef="r5" index="2"/>
+	<RegionRefIndexed regionRef="r7" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="page-number">
+	<Coords points="543,209 794,209 794,275 543,275"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1175,286 1175,1591 127,1591 127,286"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1175,1593 1175,1757 1134,1757 1134,1758 1054,1758 1054,1759 973,1759 973,1760 892,1760 892,1761 812,1761 812,1762 731,1762 731,1763 651,1763 651,1764 570,1764 570,1765 489,1765 489,1766 409,1766 409,1767 328,1767 328,1768 247,1768 247,1769 167,1769 167,1770 127,1770 127,1593"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1175,1759 1175,1878 127,1878 127,1772 168,1772 168,1771 248,1771 248,1770 329,1770 329,1769 410,1769 410,1768 490,1768 490,1767 571,1767 571,1766 652,1766 652,1765 732,1765 732,1764 813,1764 813,1763 893,1763 893,1762 974,1762 974,1761 1055,1761 1055,1760 1135,1760 1135,1759"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

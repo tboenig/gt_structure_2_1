@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:30</Created>
+	<LastChange>2019-02-26T15:51:56</LastChange></Metadata>
+	<Page imageFilename="gerstner_mechanik02_1832_0498.jpg" imageWidth="3096" imageHeight="3652" type="content">
+	<PrintSpace>
+	<Coords points="3036,3468 3036,263 527,263 527,3468"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#column" type="paragraph">
+	<Coords points="642,705 1806,705 1806,1800 642,1800"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#column" type="paragraph">
+	<Coords points="1806,717 2991,717 2991,1803 1806,1803"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TableRegion id="region_3">
+	<Coords points="783,783 1803,783 1803,1794 783,1794"/></TableRegion>
+	<TableRegion id="region_4">
+	<Coords points="1812,795 2844,795 2844,1806 1812,1806"/></TableRegion>
+	<TableRegion id="region_5">
+	<Coords points="1311,2541 2445,2541 2445,3216 1311,3216"/></TableRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="2872,1804 2872,2235 2671,2235 2671,2234 2267,2234 2267,2233 1864,2233 1864,2232 1460,2232 1460,2231 1056,2231 1056,2230 854,2230 854,1804"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1055,2232 1055,2233 1459,2233 1459,2234 1863,2234 1863,2235 2266,2235 2266,2236 2670,2236 2670,2237 2872,2237 2872,2586 854,2586 854,2232"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="header">
+	<Coords points="2381,568 2381,481 1522,481 1522,568"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="page-number">
+	<Coords points="1004,540 1004,486 863,486 863,540"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="2850,704 2850,572 859,572 859,704"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

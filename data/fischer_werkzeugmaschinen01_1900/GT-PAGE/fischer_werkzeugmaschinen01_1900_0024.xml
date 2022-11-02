@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:11:30</Created>
+	<LastChange>2019-02-26T13:28:30</LastChange></Metadata>
+	<Page imageFilename="fischer_werkzeugmaschinen01_1900_0024.jpg" imageWidth="2724" imageHeight="3578" type="content">
+	<PrintSpace>
+	<Coords points="521,247 521,3408 2723,3408 2723,247"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="r1" index="2"/>
+	<RegionRefIndexed regionRef="r5" index="3"/>
+	<RegionRefIndexed regionRef="r7" index="4"/>
+	<RegionRefIndexed regionRef="region_4" index="5"/>
+	<RegionRefIndexed regionRef="region_5" index="6"/>
+	<RegionRefIndexed regionRef="region_6" index="7"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="header">
+	<Coords points="1296,436 2175,436 2175,528 1296,528"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" type="page-number">
+	<Coords points="983,443 1065,443 1065,532 983,532"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_4">
+	<Coords points="1183,1470 2389,1470 2389,2115 1183,2115"/></GraphicRegion>
+	<TextRegion id="region_5" type="caption">
+	<Coords points="1670,2123 1872,2123 1872,2188 1670,2188"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" type="footnote">
+	<Coords points="1120,2963 2578,2963 2578,3075 1120,3075"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="2573,536 2573,1138 2525,1138 2525,1139 2429,1139 2429,1140 2334,1140 2334,1141 2238,1141 2238,1142 2143,1142 2143,1143 2047,1143 2047,1144 1952,1144 1952,1145 1856,1145 1856,1146 1761,1146 1761,1147 1666,1147 1666,1148 1570,1148 1570,1149 1475,1149 1475,1150 1379,1150 1379,1151 1284,1151 1284,1152 1188,1152 1188,1153 1093,1153 1093,1154 997,1154 997,1155 950,1155 950,536"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="2573,1140 2573,2203 2482,2203 2482,2204 2302,2204 2302,2205 2122,2205 2122,2206 1941,2206 1941,2207 1761,2207 1761,2208 1581,2208 1581,2209 1400,2209 1400,2210 1220,2210 1220,2211 1040,2211 1040,2212 950,2212 950,1157 998,1157 998,1156 1094,1156 1094,1155 1189,1155 1189,1154 1285,1154 1285,1153 1380,1153 1380,1152 1476,1152 1476,1151 1571,1151 1571,1150 1667,1150 1667,1149 1762,1149 1762,1148 1857,1148 1857,1147 1953,1147 1953,1146 2048,1146 2048,1145 2144,1145 2144,1144 2239,1144 2239,1143 2335,1143 2335,1142 2430,1142 2430,1141 2526,1141 2526,1140"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="2573,2205 2573,2946 950,2946 950,2214 1041,2214 1041,2213 1221,2213 1221,2212 1401,2212 1401,2211 1582,2211 1582,2210 1762,2210 1762,2209 1942,2209 1942,2208 2123,2208 2123,2207 2303,2207 2303,2206 2483,2206 2483,2205"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

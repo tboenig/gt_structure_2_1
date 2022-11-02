@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:11:38</Created>
+	<LastChange>2019-02-26T13:42:10</LastChange></Metadata>
+	<Page imageFilename="fontane_brandenburg04_1882_0328.jpg" imageWidth="2025" imageHeight="2635" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="footnote-continued">
+	<Coords points="565,1075 1891,1075 1891,2386 565,2386"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#poem_lg" type="paragraph">
+	<Coords points="720,1092 1589,1092 1589,1976 720,1976"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#poem_lg" type="paragraph">
+	<Coords points="710,1982 1596,1982 1596,2171 710,2171"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#poem_lg" type="paragraph">
+	<Coords points="740,2182 1601,2182 1601,2296 740,2296"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1229,332 1229,270 1109,270 1109,332"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1806,358 1806,479 1759,479 1759,478 1663,478 1663,477 1567,477 1567,476 1471,476 1471,475 1376,475 1376,474 1280,474 1280,473 1184,473 1184,472 1088,472 1088,471 992,471 992,470 897,470 897,469 801,469 801,468 705,468 705,467 609,467 609,466 561,466 561,358"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="608,468 608,469 704,469 704,470 800,470 800,471 896,471 896,472 991,472 991,473 1087,473 1087,474 1183,474 1183,475 1279,475 1279,476 1375,476 1375,477 1470,477 1470,478 1566,478 1566,479 1662,479 1662,480 1758,480 1758,481 1806,481 1806,1051 561,1051 561,468"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:50</Created>
+	<LastChange>2019-02-26T16:28:17</LastChange></Metadata>
+	<Page imageFilename="goerres_volksbuecher_1807_0066.jpg" imageWidth="1539" imageHeight="2309" type="content">
+	<PrintSpace>
+	<Coords points="445,174 445,2100 1538,2100 1538,174"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_2" index="0"/>
+	<RegionRefIndexed regionRef="region_4" index="1"/>
+	<RegionRefIndexed regionRef="region_6" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" custom="#poem" type="paragraph">
+	<Coords points="685,447 1349,447 1349,571 685,571"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#poem" type="paragraph">
+	<Coords points="690,812 1419,812 1419,953 690,953"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" custom="#poem" type="paragraph">
+	<Coords points="732,1112 1466,1112 1466,1668 732,1668"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1477,765 1477,614 608,614 608,765"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1491,1094 1491,985 614,985 614,1094"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1522,1780 1522,1680 628,1680 628,1780"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="page-number">
+	<Coords points="708,428 708,371 597,371 597,428"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

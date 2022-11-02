@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:11:35</Created>
+	<LastChange>2019-02-26T13:37:25</LastChange></Metadata>
+	<Page imageFilename="fontane_brandenburg02_1863_0528.jpg" imageWidth="2017" imageHeight="2817" type="content">
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/>
+	<RegionRefIndexed regionRef="region_3" index="2"/>
+	<RegionRefIndexed regionRef="region_4" index="3"/>
+	<RegionRefIndexed regionRef="region_5" index="4"/>
+	<RegionRefIndexed regionRef="region_6" index="5"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" custom="#poem_heading" type="heading">
+	<Coords points="1162,703 1441,703 1441,754 1162,754"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_2" custom="#poem" type="paragraph">
+	<Coords points="710,703 1869,703 1869,2008 710,2008"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_3" custom="#poem_lg" type="paragraph">
+	<Coords points="862,757 1768,757 1768,1029 862,1029"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_4" custom="#poem_lg" type="paragraph">
+	<Coords points="865,1062 1709,1062 1709,1251 865,1251"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_5" custom="#poem_lg" type="paragraph">
+	<Coords points="867,1257 1811,1257 1811,1996 867,1996"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="region_6" custom="#heading_level4" type="heading">
+	<Coords points="1255,2157 1354,2157 1354,2211 1255,2211"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1351,496 1351,417 1241,417 1241,496"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1868,689 1868,548 696,548 696,689"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1886,2020 1886,2157 1804,2157 1804,2156 1638,2156 1638,2155 1472,2155 1472,2154 1306,2154 1306,2153 1140,2153 1140,2152 974,2152 974,2151 808,2151 808,2150 724,2150 724,2020"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="807,2152 807,2153 973,2153 973,2154 1139,2154 1139,2155 1305,2155 1305,2156 1471,2156 1471,2157 1637,2157 1637,2158 1803,2158 1803,2159 1886,2159 1886,2427 724,2427 724,2152"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

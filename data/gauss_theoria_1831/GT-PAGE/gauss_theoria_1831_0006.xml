@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:14</Created>
+	<LastChange>2019-02-26T15:48:38</LastChange></Metadata>
+	<Page imageFilename="gauss_theoria_1831_0006.jpg" imageWidth="1729" imageHeight="2558" type="content">
+	<PrintSpace>
+	<Coords points="1284,2425 1284,296 81,296 81,2425"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="other">
+	<Coords points="111,399 1191,399 1191,2247 111,2247"/>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1084,725 1084,421 162,421 162,725"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1075,943 1075,756 165,756 165,943"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="793,981 793,946 440,946 440,981"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="309,1068 309,1215 900,1215 900,1068"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="r4">
+	<Coords points="993,1928 993,1268 159,1268 159,1928"/></GraphicRegion>
+	<SeparatorRegion id="r5">
+	<Coords points="1006,2025 1006,1953 150,1953 150,2025"/></SeparatorRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="928,2184 928,2025 215,2025 215,2184"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

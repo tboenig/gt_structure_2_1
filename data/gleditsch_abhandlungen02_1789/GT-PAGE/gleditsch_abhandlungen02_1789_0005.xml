@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:38</Created>
+	<LastChange>2019-02-26T15:56:55</LastChange></Metadata>
+	<Page imageFilename="gleditsch_abhandlungen02_1789_0005.jpg" imageWidth="1324" imageHeight="2336" type="content">
+	<PrintSpace>
+	<Coords points="0,54 0,2271 1231,2271 1231,54"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/>
+	<RegionRefIndexed regionRef="region_2" index="1"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="other">
+	<Coords points="13,103 1202,103 1202,2178 13,2178"/>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="428,1800 428,1874 845,1874 845,1800"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1062,2062 1062,1931 180,1931 180,2062"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r2">
+	<Coords points="1145,1925 1145,1871 100,1871 100,1925"/></SeparatorRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1134,480 1134,165 82,165 82,480"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="paragraph">
+	<Coords points="1128,840 1128,500 91,500 91,840"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1140,1062 1140,848 125,848 125,1062"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="region_2">
+	<Coords points="146,1060 1051,1060 1051,1792 146,1792"/></GraphicRegion></Page></PcGts>

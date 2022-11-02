@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:07</Created>
+	<LastChange>2019-02-26T15:46:03</LastChange></Metadata>
+	<Page imageFilename="gabelentz_ostasiatische_1881_0007.jpg" imageWidth="2280" imageHeight="3265" type="content">
+	<PrintSpace>
+	<Coords points="12,244 12,3092 1784,3092 1784,244"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="region_1" index="0"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_1" type="other">
+	<Coords points="65,370 1669,370 1669,2939 65,2939"/>
+	<TextRegion id="r0" type="paragraph">
+	<Coords points="1608,1004 1608,436 92,436 92,1004"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1176,1504 1176,1056 432,1056 432,1504"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="1304,1768 1304,1632 380,1632 380,1768"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="996,1932 996,1836 676,1836 676,1932"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<GraphicRegion id="r4">
+	<Coords points="992,2372 992,2096 672,2096 672,2372"/></GraphicRegion>
+	<TextRegion id="r5" type="paragraph">
+	<Coords points="1140,2852 1140,2520 452,2520 452,2852"/>
+	<SeparatorRegion id="r7">
+	<Coords points="876,2764 876,2728 796,2728 796,2764"/></SeparatorRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<SeparatorRegion id="r6">
+	<Coords points="940,1584 940,1532 736,1532 736,1584"/></SeparatorRegion>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

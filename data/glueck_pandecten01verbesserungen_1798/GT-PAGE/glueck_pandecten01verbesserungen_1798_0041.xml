@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2018-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator>Deutsches Textarchiv</Creator>
+	<Created>2018-03-22T10:12:43</Created>
+	<LastChange>2019-02-26T16:09:48</LastChange></Metadata>
+	<Page imageFilename="glueck_pandecten01verbesserungen_1798_0041.jpg" imageWidth="2142" imageHeight="2979" type="content">
+	<PrintSpace>
+	<Coords points="37,288 37,2770 1355,2770 1355,288"/></PrintSpace>
+	<ReadingOrder>
+	<OrderedGroup id="ro357564684568544579089" caption="Regions reading order">
+	<RegionRefIndexed regionRef="r2" index="0"/>
+	<RegionRefIndexed regionRef="r4" index="1"/>
+	<RegionRefIndexed regionRef="region_2" index="2"/></OrderedGroup></ReadingOrder>
+	<TextRegion id="region_2" type="signature-mark">
+	<Coords points="667,2445 758,2445 758,2509 667,2509"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r0" type="page-number">
+	<Coords points="1207,511 1207,440 1125,440 1125,511"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r2" type="footnote">
+	<Coords points="1221,1877 1221,2332 1137,2332 1137,2333 970,2333 970,2334 803,2334 803,2335 636,2335 636,2336 469,2336 469,2337 302,2337 302,2338 135,2338 135,2339 52,2339 52,1877"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r4" type="footnote">
+	<Coords points="1221,2334 1221,2447 52,2447 52,2341 136,2341 136,2340 303,2340 303,2339 470,2339 470,2338 637,2338 637,2337 804,2337 804,2336 971,2336 971,2335 1138,2335 1138,2334"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r7" type="paragraph">
+	<Coords points="1218,511 1218,1061 66,1061 66,511"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r3" type="paragraph">
+	<Coords points="1218,1063 1218,1195 1165,1195 1165,1196 1060,1196 1060,1197 956,1197 956,1198 851,1198 851,1199 746,1199 746,1200 642,1200 642,1201 537,1201 537,1202 432,1202 432,1203 327,1203 327,1204 223,1204 223,1205 118,1205 118,1206 66,1206 66,1063"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion>
+	<TextRegion id="r6" type="paragraph">
+	<Coords points="1218,1197 1218,1859 66,1859 66,1208 119,1208 119,1207 224,1207 224,1206 328,1206 328,1205 433,1205 433,1204 538,1204 538,1203 643,1203 643,1202 747,1202 747,1201 852,1201 852,1200 957,1200 957,1199 1061,1199 1061,1198 1166,1198 1166,1197"/>
+	<TextEquiv>
+	<Unicode/></TextEquiv></TextRegion></Page></PcGts>

@@ -5,7 +5,7 @@
       <dt>Name:</dt>
       <dd>gt_structure_2_1</dd>
       <dt>Description:</dt>
-      <dd>OCR-D structure Ground Truth</dd>
+      <dd>The repo gt_structure_2_1 is part of the OCR-D Ground Truth Structure corpus. Only the structure of the printed page is annotated. The corpus was created as a result of the DFG project OCR-D. Corrections and extensions can be reported, please use the Issues.</dd>
       <dt>Language:</dt>
       <dd>deu</dd>
       <dt>Format:</dt>
@@ -174,7 +174,7 @@ An image database</p>
                         Metadata for the complete collection and the components are in METS format.</p>
    <ul>
       <li>
-         <a href="https://github.com/tboenig/gt_structure_2_1/releases/download/v1.0.2/bagitDump-v10.zip">Current version download: bagitDump-v10.zip</a>
+         <a href="https://github.com/tboenig/gt_structure_2_1/releases/download/v1.0.3/bagitDump-v11.zip">Current version download: bagitDump-v11.zip</a>
       </li>
       <li>
          <a href="https://github.com/tboenig/gt_structure_2_1/releases">Version archive</a>

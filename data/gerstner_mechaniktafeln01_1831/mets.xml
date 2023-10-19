@@ -111,14 +111,14 @@
    </mets:amdSec>
    <mets:fileSec>
       <mets:fileGrp USE="OCR-D-GT-SEG-PAGE">
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-PAGE_0001"
                     GROUPID="OCR-D-IMG_0001">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/gerstner_mechaniktafeln01_1831_0019.xml"/>
          </mets:file>
       </mets:fileGrp>
       <mets:fileGrp USE="OCR-D-GT-SEG-BLOCK">
-         <mets:file MIMETYPE="image/jpeg"
+         <mets:file MIMETYPE="application/vnd.prima.page+xml"
                     ID="OCR-D-GT-SEG-BLOCK_0001"
                     GROUPID="OCR-D-IMG_0001">
             <mets:FLocat LOCTYPE="URL" xlink:href="GT-PAGE/gerstner_mechaniktafeln01_1831_0019.xml"/>

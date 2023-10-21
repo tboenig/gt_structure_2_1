@@ -14,7 +14,8 @@
       <dt id="License">License:</dt>
       <dd>CC0 1.0</dd>
       <dt id="Guidelines">Transcription Guidelines:</dt>
-      <dd>OCR-D-GT-Guideline, Part: Structur Ground Truth https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
+      <dd>OCR-D-GT-Guideline, Part: Structur Ground Truth
+https://ocr-d.de/en/gt-guidelines/trans/structur_gt.html</dd>
       <dt id="Project">Project:</dt>
       <dd>OCR-D</dd>
       <dt id="Project-URL">Project-URL:</dt>
@@ -91,52 +92,14 @@
             </thead>
             <tbody>
                <tr>
-                  <td>fischer_werkzeugmaschinen01_1900</td>
-                  <td>95</td>
-                  <td/>
-                  <td/>
-                  <td>11</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td>16</td>
+                  <td>glauber_furni03_1648</td>
+                  <td>100</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>frentzel_schauplatz_1744</td>
-                  <td>75</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-               </tr>
-               <tr>
-                  <td>forster_reise01_1778</td>
-                  <td>78</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>2</td>
                   <td/>
                   <td/>
                   <td/>
@@ -148,11 +111,46 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>fontane_stechlin_1899</td>
-                  <td>43</td>
+                  <td>geise_corpus_1703</td>
+                  <td>172</td>
                   <td/>
                   <td/>
                   <td/>
+                  <td/>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>forster_niederrhein02_1791</td>
+                  <td>40</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>gleditsch_abhandlungen03_1789</td>
+                  <td>60</td>
                   <td/>
                   <td/>
                   <td>1</td>
@@ -164,15 +162,17 @@
                   <td/>
                   <td/>
                   <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>gerstner_mechanik02_1832</td>
-                  <td>93</td>
+                  <td>gleditsch_abhandlungen02_1789</td>
+                  <td>68</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td>12</td>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td>1</td>
@@ -183,17 +183,18 @@
                   <td/>
                   <td/>
                   <td/>
+                  <td/>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>francisci_lusthaus_1676</td>
-                  <td>122</td>
+                  <td>goerres_volksbuecher_1807</td>
+                  <td>67</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>9</td>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -202,14 +203,33 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>28</td>
+                  <td>20</td>
                </tr>
                <tr>
-                  <td>glauber_furni06_1650</td>
-                  <td>93</td>
+                  <td>george_algabal_1892</td>
+                  <td>90</td>
                   <td/>
                   <td/>
                   <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>gleditsch_abhandlungen01_1789</td>
+                  <td>67</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td>1</td>
@@ -243,32 +263,14 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>frege_sinn_1892</td>
-                  <td>78</td>
+                  <td>gerstner_mechanik01_1831</td>
+                  <td>139</td>
                   <td/>
                   <td/>
                   <td/>
+                  <td>2</td>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>gerber_staatsrecht_1865</td>
-                  <td>85</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>17</td>
                   <td>2</td>
                   <td/>
                   <td/>
@@ -277,151 +279,17 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>gercke_torpedowaffe_1898</td>
-                  <td>83</td>
+                  <td>francois_reckenburgerin02_1871</td>
+                  <td>41</td>
                   <td/>
                   <td/>
-                  <td>12</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>glauber_furni04_1648</td>
-                  <td>89</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-               </tr>
-               <tr>
-                  <td>gessner_buchdruckerkunst02_1740</td>
-                  <td>109</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
-               </tr>
-               <tr>
-                  <td>gleim_versuch03_1758</td>
-                  <td>126</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>16</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>28</td>
-               </tr>
-               <tr>
-                  <td>franckenberg_conclusiones_1646</td>
-                  <td>111</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>11</td>
-               </tr>
-               <tr>
-                  <td>gleim_versuch02_1745</td>
-                  <td>96</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>goerres_volksbuecher_1807</td>
-                  <td>67</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>forster_niederrhein03_1794</td>
-                  <td>44</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -452,8 +320,14 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>george_algabal_1892</td>
-                  <td>90</td>
+                  <td>garve_sammlung_1779</td>
+                  <td>76</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>10</td>
                   <td/>
                   <td/>
                   <td/>
@@ -462,61 +336,36 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
+                  <td>25</td>
                </tr>
                <tr>
-                  <td>fontane_briest_1896</td>
-                  <td>61</td>
+                  <td>fuechsel_entwurf_1773</td>
+                  <td>82</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>glauber_beschreibung_1658</td>
-                  <td>109</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>26</td>
-               </tr>
-               <tr>
-                  <td>glauber_furni02_1647</td>
-                  <td>85</td>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>fontane_stechlin_1899</td>
+                  <td>43</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
                   <td/>
@@ -547,11 +396,220 @@
                   <td>11</td>
                </tr>
                <tr>
-                  <td>glueck_pandecten01_1790</td>
-                  <td>97</td>
+                  <td>gerstner_mechanik02_1832</td>
+                  <td>93</td>
                   <td/>
                   <td/>
                   <td/>
+                  <td>12</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>glueck_pandecten01verbesserungen_1798</td>
+                  <td>132</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>gerber_staatsrecht_1865</td>
+                  <td>85</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>fleming_poemata_1642</td>
+                  <td>132</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>17</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>29</td>
+               </tr>
+               <tr>
+                  <td>glauber_furni05_1649</td>
+                  <td>108</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>gauss_lehrsaetze_1840</td>
+                  <td>53</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>71</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>gleim_versuch03_1758</td>
+                  <td>126</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>16</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+               </tr>
+               <tr>
+                  <td>francisci_lusthaus_1676</td>
+                  <td>122</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>9</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>28</td>
+               </tr>
+               <tr>
+                  <td>glauber_opera01_1658</td>
+                  <td>124</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>glauber_furni04_1648</td>
+                  <td>89</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>5</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>21</td>
+               </tr>
+               <tr>
+                  <td>fontane_brandenburg04_1882</td>
+                  <td>90</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>7</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>gercke_torpedowaffe_1898</td>
+                  <td>83</td>
+                  <td/>
+                  <td/>
+                  <td>12</td>
                   <td/>
                   <td/>
                   <td/>
@@ -566,15 +624,15 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>francois_reckenburgerin02_1871</td>
-                  <td>41</td>
+                  <td>gerstner_baukunst_1789</td>
+                  <td>96</td>
                   <td/>
                   <td/>
                   <td/>
+                  <td>1</td>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
+                  <td>8</td>
                   <td/>
                   <td/>
                   <td/>
@@ -585,23 +643,42 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>fleming_jaeger02_1724</td>
-                  <td>100</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>6</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
+                  <td>gessner_buchdruckerkunst01_1740</td>
+                  <td>75</td>
                   <td/>
                   <td/>
                   <td>24</td>
+                  <td>5</td>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>21</td>
+               </tr>
+               <tr>
+                  <td>fischer_werkzeugmaschinen01_1900</td>
+                  <td>95</td>
+                  <td/>
+                  <td/>
+                  <td>11</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td>16</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
                </tr>
                <tr>
                   <td>glauber_furni01_1646</td>
@@ -623,23 +700,99 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>gall_untersuchungen_1791</td>
-                  <td>74</td>
+                  <td>gessner_buchdruckerkunst02_1740</td>
+                  <td>109</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>4</td>
                   <td/>
                   <td/>
-                  <td>3</td>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>glauber_opera02_1659</td>
+                  <td>149</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>29</td>
+               </tr>
+               <tr>
+                  <td>frege_sinn_1892</td>
+                  <td>78</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td>20</td>
+               </tr>
+               <tr>
+                  <td>forster_niederrhein01_1791</td>
+                  <td>43</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>fritsch_tractatus_1669</td>
+                  <td>173</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>9</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
                </tr>
                <tr>
                   <td>gerstner_mechaniktafeln01_1831</td>
@@ -680,120 +833,6 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>gessner_buchdruckerkunst03_1741</td>
-                  <td>113</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>27</td>
-               </tr>
-               <tr>
-                  <td>frapan_bittersuess_1891</td>
-                  <td>83</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>furttenbach_buechsenmeister_1643</td>
-                  <td>140</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>fritsch_tractatus_1669</td>
-                  <td>173</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>9</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>22</td>
-               </tr>
-               <tr>
-                  <td>glueck_pandecten02erbesserungen_1800</td>
-                  <td>46</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>gauss_lehrsaetze_1840</td>
-                  <td>53</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>71</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
                   <td>fontane_gedichte_1851</td>
                   <td>74</td>
                   <td/>
@@ -802,215 +841,6 @@
                   <td/>
                   <td/>
                   <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>gerstner_mechanik01_1831</td>
-                  <td>139</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td>17</td>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>forster_niederrhein02_1791</td>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>fuechsel_entwurf_1773</td>
-                  <td>82</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>fontane_brandenburg04_1882</td>
-                  <td>90</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>7</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>fontane_brandenburg03_1873</td>
-                  <td>44</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>goerres_revolution_1819</td>
-                  <td>40</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>gerstner_baukunst_1789</td>
-                  <td>96</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>8</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>furttenbach_kunstspiegel_1663</td>
-                  <td>158</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td>8</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
-               </tr>
-               <tr>
-                  <td>fleming_poemata_1642</td>
-                  <td>132</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>17</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>29</td>
-               </tr>
-               <tr>
-                  <td>fouque_undine_1811</td>
-                  <td>43</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>glueck_pandecten02_1791</td>
-                  <td>100</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>6</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1041,8 +871,46 @@
                   <td>21</td>
                </tr>
                <tr>
-                  <td>fontane_brandenburg01_1862</td>
-                  <td>54</td>
+                  <td>fontane_brandenburg03_1873</td>
+                  <td>44</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>gellert_leben02_1748</td>
+                  <td>95</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>23</td>
+               </tr>
+               <tr>
+                  <td>forster_reise01_1778</td>
+                  <td>78</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1079,14 +947,14 @@
                   <td>22</td>
                </tr>
                <tr>
-                  <td>ganswindt_faerberei_1889</td>
-                  <td>48</td>
+                  <td>gerstner_mechanik03_1834</td>
+                  <td>241</td>
                   <td/>
                   <td/>
                   <td/>
+                  <td>1</td>
                   <td/>
-                  <td/>
-                  <td/>
+                  <td>47</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1098,11 +966,11 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>gleditsch_abhandlungen03_1789</td>
-                  <td>60</td>
+                  <td>goerres_revolution_1819</td>
+                  <td>40</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -1136,14 +1004,8 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>glauber_opera02_1659</td>
-                  <td>149</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
+                  <td>glueck_pandecten02erbesserungen_1800</td>
+                  <td>46</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1152,74 +1014,23 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>29</td>
-               </tr>
-               <tr>
-                  <td>glauber_furni05_1649</td>
-                  <td>108</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>glauber_opera01_1658</td>
-                  <td>124</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>3</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>23</td>
-               </tr>
-               <tr>
-                  <td>gabelentz_ostasiatische_1881</td>
-                  <td>54</td>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
                   <td>20</td>
                </tr>
                <tr>
-                  <td>gleim_versuch01_1744</td>
-                  <td>67</td>
+                  <td>frentzel_schauplatz_1744</td>
+                  <td>75</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>11</td>
+                  <td>4</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1228,17 +1039,11 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>23</td>
+                  <td>21</td>
                </tr>
                <tr>
-                  <td>friderici_musica_1619</td>
-                  <td>145</td>
-                  <td/>
-                  <td/>
-                  <td>51</td>
-                  <td>2</td>
-                  <td/>
-                  <td>2</td>
+                  <td>fontane_briest_1896</td>
+                  <td>61</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1247,7 +1052,13 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>27</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
                </tr>
                <tr>
                   <td>fleming_jaeger01_1719</td>
@@ -1269,11 +1080,144 @@
                   <td>22</td>
                </tr>
                <tr>
-                  <td>gleditsch_abhandlungen01_1789</td>
-                  <td>67</td>
+                  <td>gabelentz_ostasiatische_1881</td>
+                  <td>54</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>franckenberg_conclusiones_1646</td>
+                  <td>111</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>11</td>
+               </tr>
+               <tr>
+                  <td>fleming_jaeger02_1724</td>
+                  <td>100</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>24</td>
+               </tr>
+               <tr>
+                  <td>ganswindt_faerberei_1889</td>
+                  <td>48</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>gerhardt_andachten_1667</td>
+                  <td>347</td>
+                  <td/>
+                  <td/>
+                  <td>16</td>
+                  <td>2</td>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>26</td>
+               </tr>
+               <tr>
+                  <td>glueck_pandecten01_1790</td>
+                  <td>97</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>forster_reise02_1780</td>
+                  <td>105</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>forster_niederrhein03_1794</td>
+                  <td>44</td>
+                  <td/>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td>1</td>
@@ -1288,8 +1232,84 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>glueck_pandecten01verbesserungen_1798</td>
-                  <td>132</td>
+                  <td>friderici_musica_1619</td>
+                  <td>145</td>
+                  <td/>
+                  <td/>
+                  <td>51</td>
+                  <td>2</td>
+                  <td/>
+                  <td>2</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>27</td>
+               </tr>
+               <tr>
+                  <td>furttenbach_buechsenmeister_1643</td>
+                  <td>140</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td>2</td>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>22</td>
+               </tr>
+               <tr>
+                  <td>fontane_brandenburg01_1862</td>
+                  <td>54</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>fouque_undine_1811</td>
+                  <td>43</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>glauber_furni06_1650</td>
+                  <td>93</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1326,11 +1346,11 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>gellert_briefe_1751</td>
-                  <td>80</td>
+                  <td>gleim_versuch02_1745</td>
+                  <td>96</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td/>
                   <td/>
                   <td/>
                   <td>3</td>
@@ -1342,131 +1362,17 @@
                   <td/>
                   <td/>
                   <td/>
-                  <td>20</td>
+                  <td>23</td>
                </tr>
                <tr>
-                  <td>garve_sammlung_1779</td>
-                  <td>76</td>
+                  <td>gleim_versuch01_1744</td>
+                  <td>67</td>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
                   <td/>
-                  <td>10</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
-               </tr>
-               <tr>
-                  <td>geise_corpus_1703</td>
-                  <td>172</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>5</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>25</td>
-               </tr>
-               <tr>
-                  <td>forster_niederrhein01_1791</td>
-                  <td>43</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>forster_reise02_1780</td>
-                  <td>105</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>gerstner_mechanik03_1834</td>
-                  <td>241</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td>47</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>gessner_buchdruckerkunst01_1740</td>
-                  <td>75</td>
-                  <td/>
-                  <td/>
-                  <td>24</td>
-                  <td>5</td>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>21</td>
-               </tr>
-               <tr>
-                  <td>gellert_leben02_1748</td>
-                  <td>95</td>
-                  <td/>
-                  <td/>
-                  <td>1</td>
-                  <td/>
-                  <td/>
-                  <td>4</td>
+                  <td>11</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1478,33 +1384,14 @@
                   <td>23</td>
                </tr>
                <tr>
-                  <td>glauber_furni03_1648</td>
-                  <td>100</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>2</td>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td/>
-                  <td>20</td>
-               </tr>
-               <tr>
-                  <td>gleditsch_abhandlungen02_1789</td>
-                  <td>68</td>
+                  <td>gellert_briefe_1751</td>
+                  <td>80</td>
                   <td/>
                   <td/>
                   <td>1</td>
                   <td/>
                   <td/>
-                  <td>1</td>
+                  <td>3</td>
                   <td/>
                   <td/>
                   <td/>
@@ -1535,14 +1422,71 @@
                   <td>20</td>
                </tr>
                <tr>
-                  <td>gerhardt_andachten_1667</td>
-                  <td>347</td>
+                  <td>gessner_buchdruckerkunst03_1741</td>
+                  <td>113</td>
                   <td/>
                   <td/>
-                  <td>16</td>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>27</td>
+               </tr>
+               <tr>
+                  <td>glueck_pandecten02_1791</td>
+                  <td>100</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>6</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>gall_untersuchungen_1791</td>
+                  <td>74</td>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>1</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>glauber_beschreibung_1658</td>
+                  <td>109</td>
+                  <td/>
+                  <td/>
                   <td>2</td>
                   <td/>
-                  <td>2</td>
+                  <td/>
+                  <td/>
                   <td/>
                   <td/>
                   <td/>
@@ -1552,6 +1496,63 @@
                   <td/>
                   <td/>
                   <td>26</td>
+               </tr>
+               <tr>
+                  <td>frapan_bittersuess_1891</td>
+                  <td>83</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
+               </tr>
+               <tr>
+                  <td>furttenbach_kunstspiegel_1663</td>
+                  <td>158</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>4</td>
+                  <td>8</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>25</td>
+               </tr>
+               <tr>
+                  <td>glauber_furni02_1647</td>
+                  <td>85</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>3</td>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td/>
+                  <td>20</td>
                </tr>
             </tbody>
          </table>

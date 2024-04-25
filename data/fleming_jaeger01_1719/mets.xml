@@ -22,7 +22,7 @@
                <mods:location>
                   <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
                   <mods:shelfLocator>HAB Wolfenbüttel, M: Oe 4° 16:1</mods:shelfLocator>
-                  <mods:url>Dig: http://diglib.hab.de/drucke/oe-4f-16-1b/start.htm</mods:url>
+                  <mods:url>http://diglib.hab.de/drucke/oe-4f-16-1b/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>

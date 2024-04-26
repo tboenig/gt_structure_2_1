@@ -20,25 +20,25 @@
          <mets:xmlData>
             <mods:mods>
                <mods:location>
-                  <mods:physicalLocation/>
-                  <mods:shelfLocator/>
-                  <mods:url/>
+                  <mods:physicalLocation>HAB Wolfenbüttel</mods:physicalLocation>
+                  <mods:shelfLocator>HAB Wolfenbüttel, 48 Musica Helmst.</mods:shelfLocator>
+                  <mods:url>http://diglib.hab.de/drucke/48-musica-helmst/start.htm</mods:url>
                </mods:location>
                <mods:originInfo>
                   <mods:place>
-                     <mods:placeTerm type="text"/>
+                     <mods:placeTerm type="text">Berlin</mods:placeTerm>
                   </mods:place>
-                  <mods:dateIssued encoding="w3cdtf" keyDate="yes"/>
-                  <mods:publisher/>
+                  <mods:dateIssued encoding="w3cdtf" keyDate="yes">1667</mods:dateIssued>
+                  <mods:publisher>Runge</mods:publisher>
                </mods:originInfo>
                <mods:originInfo>
                   <mods:dateCaptured encoding="w3cdtf"/>
                   <mods:edition>[Electronic ed.]</mods:edition>
                </mods:originInfo>
-               <mods:classification authority="DTA"/>
-               <mods:classification authority="DTA"/>
+               <mods:classification authority="DTA">Gebrauchsliteratur</mods:classification>
+               <mods:classification authority="DTA">Musik</mods:classification>
                <mods:titleInfo>
-                  <mods:title/>
+                  <mods:title>Geistliche Andachten : Bestehend in hundert und zwantzig Liedern/ Auff Hoher und vornehmer Herren Anfoderung in ein Buch gebracht ; Der göttlichen Majestät zu foderst Zu Ehren/ denn auch der werthen und bedrängten Christenheit zu Trost/ und einer jedweden gläubigen Seelen Zu Vermehrung ihres Christenthums Also Dutzendweise mit neuen sechsstimmigen Melodeyen gezieret / Hervor gegeben und verlegt Von Johan Georg Ebeling/ Der Berlinischen Haupt-Kirchen Music: Director</mods:title>
                   <mods:subTitle/>
                </mods:titleInfo>
                <mods:language>
@@ -53,12 +53,12 @@
                   <mods:role>
                      <mods:roleTerm authority="marcrelator" type="code">aut</mods:roleTerm>
                   </mods:role>
-                  <mods:namePart type="family"/>
-                  <mods:namePart type="given"/>
-                  <mods:displayForm> </mods:displayForm>
+                  <mods:namePart type="family">Gerhardt</mods:namePart>
+                  <mods:namePart type="given">Paul</mods:namePart>
+                  <mods:displayForm>Gerhardt, Paul</mods:displayForm>
                </mods:name>
                <mods:physicalDescription>
-                  <mods:extent/>
+                  <mods:extent>30 S., [1] Bl., S. 35 - 62, [2] Bl., S. 67 - 95, [1] Bl., S. 96 - 119, [2] Bl., S. 122 - 145, [1] Bl., S. 146 - 169, [1] Bl., S. 170 - 197, [1] Bl., S. 198 - 221, [1] Bl., S. 222 - 245, [1] Bl., S. 246 - 269, [1] Bl. : Druckerm., Noten ; 2° + [12], [12], [12], [12], [12], [12], [10], [10], [10], [10] Bl.</mods:extent>
                </mods:physicalDescription>
                <mods:accessCondition type="use and reproduction"
                                      xlink:href="https://creativecommons.org/publicdomain/mark/1.0/">Public Domain Mark 1.0</mods:accessCondition>
@@ -68,7 +68,7 @@
                                      xlink:href="http://purl.org/coar/access_right/c_abf2">open access</mods:accessCondition>
                <mods:extension>
                   <zvdd:zvddWrap xmlns:zvdd="http://zvdd.gdz-cms.de/">
-                     <zvdd:titleWord/>
+                     <zvdd:titleWord>Geistliche Andachten</zvdd:titleWord>
                   </zvdd:zvddWrap>
                </mods:extension>
             </mods:mods>
@@ -316,7 +316,7 @@
                <DV:rights>
                   <DV:owner>Koordinierte Förderinitiative zur Weiterentwicklung von Verfahren für die
                 Optical-Character-Recognition OCR-D</DV:owner>
-                  <DV:ownerLogo>https://ocr-d.de/goto/logo</DV:ownerLogo>
+                  <DV:ownerLogo>http://ocr-d.de/sites/default/files/Header1-Text-gold_3.png</DV:ownerLogo>
                   <DV:ownerSiteURL>http://ocr-d.de/</DV:ownerSiteURL>
                   <DV:ownerContact>mailto:ocrd@bbaw.de</DV:ownerContact>
                </DV:rights>

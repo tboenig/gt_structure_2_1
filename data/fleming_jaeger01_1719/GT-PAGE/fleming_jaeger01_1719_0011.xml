@@ -2,7 +2,7 @@
 		<Creator>Deutsches Textarchiv</Creator>
 		<Created>2018-04-03T15:38:45</Created>
 		<LastChange>2021-10-24T17:02:04</LastChange>
-	</Metadata><Page imageFilename="../jpg/fleming_jaeger01_1719_0011.jpg" imageWidth="3173" imageHeight="4506" type="title" primaryLanguage="German" secondaryLanguage="Latin">
+	</Metadata><Page imageFilename="jpg/fleming_jaeger01_1719_0011.jpg" imageWidth="3173" imageHeight="4506" type="title" primaryLanguage="German" secondaryLanguage="Latin">
 		<Border>
 			<Coords points="116,125 116,4291 2750,4291 2750,125"/>
 		</Border>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd" pcGtsId="pc-fleming_jaeger01_1719_0024"><Metadata>
 	<Creator>Deutsches Textarchiv</Creator>
 	<Created>2018-04-03T15:38:45</Created>
-	<LastChange>2021-10-24T18:48:57</LastChange></Metadata><Page imageFilename="../jpg/fleming_jaeger01_1719_0024.jpg" imageWidth="3173" imageHeight="4506" type="content" primaryLanguage="German" secondaryLanguage="Latin">
+	<LastChange>2021-10-24T18:48:57</LastChange></Metadata><Page imageFilename="jpg/fleming_jaeger01_1719_0024.jpg" imageWidth="3173" imageHeight="4506" type="content" primaryLanguage="German" secondaryLanguage="Latin">
 	<Border>
 	<Coords points="581,227 581,4145 2954,4145 2954,227"/></Border>
 	<ReadingOrder>
